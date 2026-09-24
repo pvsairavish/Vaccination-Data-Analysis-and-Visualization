@@ -1,0 +1,23 @@
+===== DATA CLEANING SUMMARY =====
+
+1. COVERAGE DATA
+Original shape: (399859, 11)
+Shape after cleaning: (230477, 11)
+
+2. INCIDENCE DATA
+Original shape: (84946, 8)
+Shape after cleaning: (61584, 8)
+
+3. REPORTED CASES
+Original shape: (84870, 7)
+Shape after cleaning: (65470, 7)
+
+4. VACCINE INTRODUCTION
+Original shape: (138321, 6)
+Shape after cleaning: (138320, 6)
+
+5. VACCINE SCHEDULE
+Original shape: (8053, 12)
+Shape after cleaning: (8052, 12)
+
+===== Basic cleaning completed! =====
